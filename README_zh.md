@@ -6,6 +6,8 @@
 
 [报告](report_zh.md)
 
+![image](./assets/image.png)
+
 ## 项目特点
 
 - 基于现代OpenGL (GLEW/GLFW)开发

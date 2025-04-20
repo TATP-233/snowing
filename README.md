@@ -6,6 +6,8 @@ This is an OpenGL-based snowflake falling animation program that displays the ef
 
 [Report](report.md)
 
+![image](./assets/image.png)
+
 ## Project Features
 
 - Developed with modern OpenGL (GLEW/GLFW)
